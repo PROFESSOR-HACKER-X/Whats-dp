@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "PROFESSOR | PARI",
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.9",
