@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-profile-api",
+  "version": "1.0.0",
+  "author": "PROFESSOR | PARI",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.0.0"
+  }
+}
